@@ -12,6 +12,6 @@ class RoleTests extends GrailsUnitTestCase {
     }
 
     void testSomething() {
-
+	throw new Exception();
     }
 }
