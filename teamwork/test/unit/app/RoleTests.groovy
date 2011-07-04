@@ -13,6 +13,6 @@ class RoleTests extends GrailsUnitTestCase {
 
     void testSomething() {
 	throw new Exception();
-	OH NO:compliler Error;
+	dd
     }
 }
